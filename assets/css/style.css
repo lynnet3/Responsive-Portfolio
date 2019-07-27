@@ -216,9 +216,9 @@ body {
     border: 0 none;
   }
 
-  @media screen and (min-width: 414px){
+  @media screen and (min-width: 700px){
 
     .wrapper {
-      width: 300px
+      width: 650px
     }
   }
